@@ -1,8 +1,4 @@
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/Nahdrab">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Nahdrab&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
@@ -24,12 +20,7 @@
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JinSooJang-DA/JinSooJang-DA/main/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JinSooJang-DA/JinSooJang-DA/main/github-contribution-grid-snake.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JinSooJang-DA/JinSooJang-DA/main/github-contribution-grid-snake.svg">
-</picture>
-###
+
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
