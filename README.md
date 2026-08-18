@@ -1,4 +1,8 @@
+Musician by main, Web Developer in progress. 🎧 ➔ 💻
 
+Exploring CSS grid by day, aiming for Cybersecurity & White Hat Hacker by night.
+
+🎮 Gamer | 🏋️ Fitness | 🏠 Homebody at heart.
 
 ###
 
