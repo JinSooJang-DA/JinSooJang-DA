@@ -21,23 +21,25 @@
 ### 👨‍💻 About Me
 - Building web basics today, securing systems tomorrow
 - Currently: **HTML5 / CSS3 / JavaScript** deep dive → **DevSecOps & Ethical Hacking** roadmap
-- 3 repos powering my hub:
+- Key Repositories powering my hub:
   - `jinsoojang-da.github.io` - Main Hub
-  - `my-learning-blog` - Daily Blog + 3 DA Projects + Learning Room
-  - `learning_diary` - Daily Learning Log
+  - `my-learning-blog` - Daily Blog + DA Projects + Learning Room
+  - `todolist` - Post-it Todo Board Project
 
 ### 🚀 Featured Projects - Live Demos
 
 | Project | Live Link | Stack |
 | :--- | :--- | :--- |
+| **Todo Board** | [Live →](https://jinsoojang-da.github.io/todolist/) | Vanilla JS / CSS Grid |
+| **Fotogram** | [Live →](https://jinsoojang-da.github.io/my-learning-blog/da-project/Fotogram/) | HTML / CSS / JS |
 | **MeinPC Website** | [Live →](https://jinsoojang-da.github.io/my-learning-blog/da-project/MeinPC_Website/) | HTML / CSS |
 | **Reiseblog** | [Live →](https://jinsoojang-da.github.io/my-learning-blog/da-project/Reiseblog/) | Responsive |
 | **Sakura Ramen** | [Live →](https://jinsoojang-da.github.io/my-learning-blog/da-project/sakura_ramen_responsive/) | Responsive / Flex |
 
 ### 📚 Learning Room
 
-**[CSS School - 7 Labs](https://jinsoojang-da.github.io/my-learning-blog/learning-room/CSS/)** | Pure CSS without JS
-**[JS School - DOM + Fotogram](https://jinsoojang-da.github.io/my-learning-blog/learning-room/JS/)** | DOM Manipulation & Photo App
+**[CSS School - 7 Labs](https://jinsoojang-da.github.io/my-learning-blog/learning-room/CSS/)** | Pure CSS without JS  
+**[JS School - DOM Lab](https://jinsoojang-da.github.io/my-learning-blog/learning-room/JS/)** | DOM Manipulation & JS Experiments
 
 ---
 
@@ -81,4 +83,3 @@
 
 ---
 <p align="center">⚡ <b>Main Hub:</b> https://jinsoojang-da.github.io/ ⚡</p>
-
