@@ -14,22 +14,23 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge)](https://jinsoojang-da.github.io/)
 [![Learning Blog](https://img.shields.io/badge/Learning_Blog-Active-3b82f6?style=for-the-badge)](https://jinsoojang-da.github.io/my-learning-blog/)
-[![Status](https://img.shields.io/badge/Focus-CSS_/_JS_/_DevSecOps-8b5cf6?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Focus-Next.js_/_Supabase_/_DevSecOps-8b5cf6?style=for-the-badge)](#)
 
 ---
 
 ### 👨‍💻 About Me
 - Building web basics today, securing systems tomorrow
-- Currently: **HTML5 / CSS3 / JavaScript** deep dive → **DevSecOps & Ethical Hacking** roadmap
+- Currently: **HTML5 / CSS3 / JavaScript / Next.js** deep dive → **DevSecOps & Ethical Hacking** roadmap
 - Key Repositories powering my hub:
   - `jinsoojang-da.github.io` - Main Hub
   - `my-learning-blog` - Daily Blog + DA Projects + Learning Room
-  - `todolist` - Post-it Todo Board Project
+  - `germanhanguk` - German-Korean Community & Tandem Platform
 
 ### 🚀 Featured Projects - Live Demos
 
 | Project | Live Link | Stack |
 | :--- | :--- | :--- |
+| **German Hanguk** *(New!)* | [Live →](https://germanhanguk.vercel.app/) | Next.js / Supabase / Vercel |
 | **Todo Board** | [Live →](https://jinsoojang-da.github.io/todolist/) | Vanilla JS / CSS Grid |
 | **Fotogram** | [Live →](https://jinsoojang-da.github.io/my-learning-blog/da-project/Fotogram/) | HTML / CSS / JS |
 | **MeinPC Website** | [Live →](https://jinsoojang-da.github.io/my-learning-blog/da-project/MeinPC_Website/) | HTML / CSS |
@@ -52,6 +53,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="40" alt="supabase" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
@@ -60,7 +65,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel" />
 </div>
 
 ---
