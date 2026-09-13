@@ -14,15 +14,15 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge)](https://jinsoojang-da.github.io/)
 [![Learning Blog](https://img.shields.io/badge/Learning_Blog-Active-3b82f6?style=for-the-badge)](https://jinsoojang-da.github.io/my-learning-blog/)
-[![Status](https://img.shields.io/badge/Focus-Next.js_/_Supabase_/_DevSecOps-8b5cf6?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Focus-Next.js_/_Firebase_/_DevSecOps-8b5cf6?style=for-the-badge)](#)
 
 ---
 
 ### 👨‍💻 About Me
 - Building web basics today, securing systems tomorrow
-- Currently: **HTML5 / CSS3 / JavaScript / Next.js** deep dive → **DevSecOps & Ethical Hacking** roadmap
+- Currently: **HTML5 / CSS3 / JavaScript / Firebase** deep dive → **DevSecOps & Ethical Hacking** roadmap
 - Key Repositories powering my hub:
-  - `jinsoojang-da.github.io` - Main Hub
+  - `jinsoojang-da.github.io` - Main Hub & Bookfinder
   - `my-learning-blog` - Daily Blog + DA Projects + Learning Room
   - `germanhanguk` - German-Korean Community & Tandem Platform
 
@@ -30,7 +30,8 @@
 
 | Project | Live Link | Stack |
 | :--- | :--- | :--- |
-| **German Hanguk** *(New!)* | [Live →](https://germanhanguk.vercel.app/) | Next.js / Supabase / Vercel |
+| **Bookfinder** *(New!)* | [Live →](https://jinsoojang-da.github.io/bookfinder/) | JavaScript / Firebase / GitHub Actions |
+| **German Hanguk** | [Live →](https://germanhanguk.vercel.app/) | Next.js / Supabase / Vercel |
 | **Todo Board** | [Live →](https://jinsoojang-da.github.io/todolist/) | Vanilla JS / CSS Grid |
 | **Fotogram** | [Live →](https://jinsoojang-da.github.io/my-learning-blog/da-project/Fotogram/) | HTML / CSS / JS |
 | **MeinPC Website** | [Live →](https://jinsoojang-da.github.io/my-learning-blog/da-project/MeinPC_Website/) | HTML / CSS |
@@ -52,6 +53,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="firebase" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
   <img width="12" />
