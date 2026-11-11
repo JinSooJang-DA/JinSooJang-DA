@@ -26,9 +26,9 @@ After years as a songwriter and music producer, I moved into web development —
 
 | Project | What it is | Stack | Links |
 |:--|:--|:--|:--|
-| 🏠 **German Hanguk** | Community platform for Koreans living in Germany — board, news, practical info and language tandems. Built with AI-assisted development and run on my own | Next.js · Supabase · Vercel | [Live](https://germanhanguk.vercel.app/) |
 | 🐔 **El Pollo Loco** | 2D jump-and-run browser game built with object-oriented JavaScript | JavaScript · Canvas | [Play](https://jinsoojang-da.github.io/el-pollo-loco/) · [Code](https://github.com/JinSooJang-DA/el-pollo-loco) |
 | ⚡ **Pokédex** | Browse and search Pokémon with live data from PokeAPI | JavaScript · REST API | [Live](https://jinsoojang-da.github.io/pokedex/) · [Code](https://github.com/JinSooJang-DA/pokedex) |
+| 🍜 **Korean Diner** | Interactive food ordering web application with dynamic shopping basket and quantity calculations | HTML · CSS · JavaScript | [Live](https://jinsoojang-da.github.io/koreandiner/) · [Code](https://github.com/JinSooJang-DA/koreandiner) |
 
 <sub>All course projects are on my <a href="https://jinsoojang-da.github.io/#course">portfolio</a>.</sub>
 
