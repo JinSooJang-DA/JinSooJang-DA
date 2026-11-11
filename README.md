@@ -1,7 +1,7 @@
 <h1 align="center">JinSoo Jang</h1>
 
 <p align="center">
-  <b>Songwriter & producer, now building for the web 🎧 ➔ 💻</b><br>
+  <b>Creative Producer & Front-End Developer 🎧 ➔ 💻</b><br>
   Frankfurt am Main, Germany · 🇰🇷 Korean · 🇩🇪 German · 🇬🇧 English
 </p>
 
@@ -14,11 +14,12 @@
 
 ### 👨‍💻 About me
 
-After years as a songwriter and music producer, I moved into web development — and found the same craft in it: structure, timing, and getting the details right.
+After years of composing, producing music, and directing digital media, I brought that creative discipline into software development. I specialize in turning interactive concepts into structured, maintainable code with high attention to user experience and performance.
 
-- 🎓 Front-End Developer training at **Developer Akademie** (HTML · CSS · JavaScript)
-- 🌐 Running a community site for Koreans in Germany
-- 🔐 Next on my roadmap: **DevSecOps & web security**
+- 🎓 **Front-End Engineering:** Intensive training at **Developer Akademie** (Angular · TypeScript · JavaScript · HTML5/SCSS)
+- 🌐 **In Development:** Building **German Hanguk**, a community & information platform for Koreans in Germany using Next.js & Supabase
+- 🎮 **Interactive & Media Experiments:** Designing branching game mechanics using YouTube interactive features, while managing digital music production and curated news/feed pipelines
+- 🔐 **Next on Roadmap:** Cloud infrastructure, CI/CD automation & DevSecOps fundamentals
 
 ---
 
@@ -28,7 +29,7 @@ After years as a songwriter and music producer, I moved into web development —
 |:--|:--|:--|:--|
 | 🐔 **El Pollo Loco** | 2D jump-and-run browser game built with object-oriented JavaScript | JavaScript · Canvas | [Play](https://jinsoojang-da.github.io/el-pollo-loco/) · [Code](https://github.com/JinSooJang-DA/el-pollo-loco) |
 | ⚡ **Pokédex** | Browse and search Pokémon with live data from PokeAPI | JavaScript · REST API | [Live](https://jinsoojang-da.github.io/pokedex/) · [Code](https://github.com/JinSooJang-DA/pokedex) |
-| 🍜 **Korean Diner** | Interactive food ordering web application with dynamic shopping basket and quantity calculations | HTML · CSS · JavaScript | [Live](https://jinsoojang-da.github.io/koreandiner/) · [Code](https://github.com/JinSooJang-DA/koreandiner) |
+| 🍜 **Korean Diner** | Interactive food ordering web application with dynamic basket and calculation logic | HTML · CSS · JavaScript | [Live](https://jinsoojang-da.github.io/koreandiner/) · [Code](https://github.com/JinSooJang-DA/koreandiner) |
 
 <sub>All course projects are on my <a href="https://jinsoojang-da.github.io/#course">portfolio</a>.</sub>
 
@@ -40,6 +41,8 @@ After years as a songwriter and music producer, I moved into web development —
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
 
 **Backend & deployment**<br>
